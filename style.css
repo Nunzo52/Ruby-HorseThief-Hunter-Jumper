@@ -1,0 +1,74 @@
+/* Body and background */
+body {
+  background-image:  url('file:///C:/Users/nunzo/OneDrive/Documents/RubyHorsethief/desert-background.jpg.jpg');
+  font-family: Arial, sans-serif;
+}
+
+/* Header */
+header {
+  background-color: #F5DEB3; /* a light beige color */
+  padding: 20px;
+}
+
+header h1 {
+  font-size: 48px;
+  color: #8B4513; /* a dark brown color */
+  text-align: center;
+}
+
+/* Navigation */
+nav {
+  background-color: #D2B48C; /* a medium brown color */
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+nav a {
+  color: #FFF; /* white color */
+  text-decoration: none;
+}
+
+/* Content */
+article {
+  margin: 20px;
+}
+
+article h2 {
+  font-size: 36px;
+  color: #8B4513; /* a dark brown color */
+}
+
+article p {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+  border: 5px solid #D2B48C; /* a medium brown color */
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5); /* a shadow effect */
+}
+
+/* Footer */
+footer {
+  background-color: #F5DEB3; /* a light beige color */
+  padding: 20px;
+  text-align: center;
+}
+
+footer p {
+  font-size: 14px;
+  color: #8B4513; /* a dark brown color */
+}
