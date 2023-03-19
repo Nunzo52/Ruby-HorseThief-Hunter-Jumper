@@ -1,2 +1,4 @@
 # Ruby-HorseThief-Hunter-Jumper
-This is a working Repo really my first true attempt at website design. 
+      Anne Binkerd Trainer/Owner
+      
+To view the website, click [here](https://github.com/Nunzo52/Ruby-HorseThief-Hunter-Jumper.git).
